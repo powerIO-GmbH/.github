@@ -6,10 +6,10 @@ powerIO® is revolutionizing building automation with our innovative decentraliz
 
 Our system replaces traditional star-configured cabling with a revolutionary solution that:
 
-✅ Reduces installation costs by up to 70%
-✅ Minimizes coordination efforts
-✅ Provides enhanced control and monitoring
-✅ Enables true smart building capabilities
+- ✅ Reduces installation costs by up to 70%
+- ✅ Minimizes coordination efforts
+- ✅ Provides enhanced control and monitoring
+- ✅ Enables true smart building capabilities
 
 ### Our Vision
 
