@@ -1,42 +1,32 @@
 # powerIO GmbH
 
-**Building Automation 4.0 - Decentralized. Simple. Visionary.**
+**Building Automation 4.0. Decentralized. Simple. Visionary.**
 
-powerIO® is revolutionizing building automation with our innovative decentralized installation system. We've developed a groundbreaking approach that fundamentally transforms how modern buildings are automated and controlled.
+powerIO® makes building automation simpler, from the cable to the cloud. Our decentralized installation system replaces star cabling with short plug connections: up to 70 % lower installation costs, less coordination on site, and more control and data in every building.
 
-Our system replaces traditional star-configured cabling with a revolutionary solution that:
+## What we build
 
-- ✅ Reduces installation costs by up to 70%
-- ✅ Minimizes coordination efforts
-- ✅ Provides enhanced control and monitoring
-- ✅ Enables true smart building capabilities
+- The powerIO System: decentralized I/O boxes and CODESYS gateways for heating, ventilation, cooling and room control, wired with standard M12 connectors.
+- CODESYS libraries for building automation, ready to use in your HVAC projects.
+- powerIO Orbit, our engineering platform for automation.
 
-### Our Vision
+## powerIO Orbit
 
-*"The powerIO®-System requires less installation, coordination and costs - and offers more control and information. In this way, we can connect people and technology, environment and energy as well as life and comfort. This is how we ensure a successful future. For each of your projects!"*
+**Engineering with AI. For automation.**
 
-### 🛠️ Technology Stack
+programs from your requirements. Two rooms become one meeting room, a heat pump should run on solar power. 
+You describe it in plain words, Orbit drafts the program and the visualisation and helps with commissioning, and your engineers review and approve.
 
-**Building Automation Excellence**
+## Links
 
-powerIO System - decentraliced, cost effective building automation
-CODESYS HVAC - Intelligent climate control with advanced algorithms for optimal comfort and efficiency with CODESYS
-HVAC Automation Portal - Real-time monitoring, predictive analytics, and smart load balancing
+- [Website](https://www.powerio.com)
+- [powerIO Orbit](https://powerio.com/orbit)
+- [Support Hub](https://support.powerio.com)
+- [Online Shop](https://shop.powerio.com/shop)
+- [LinkedIn](https://www.linkedin.com/company/powerio-gmbh)
 
-## 🔗 Important Links
+## Contact
 
-- 🌐 **Website:** [powerio.com](https://powerio.com)
-- 📚 **Support Hub:** [support.powerio.com](https://support.powerio.com)
-- 🛒 **Online Shop:** [shop.powerio.com](https://shop.powerio.com/shop)
-- 🔧 **PowerIO Portal:** [portal.powerio.com](https://portal.powerio.com/)
+office [at] powerio.com, +49 711 99887200
 
-## 📧 Get in Touch
-
-For business inquiries, technical support, or partnership opportunities:
-- **Email:** office [at] powerio.com
-- **Phone:** +49 711 99887200
-- **Support:** [support.powerio.com](https://support.powerio.com)
-
----
-
-*Decentralized building automation is the future of all smart buildings!*
+*Decentralized building automation is the future of every smart building.*
