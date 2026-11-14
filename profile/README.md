@@ -6,7 +6,7 @@ powerIO® makes building automation simpler, from the cable to the cloud. Our de
 
 ## What we build
 
-- The powerIO System: decentralized I/O boxes and CODESYS gateways for heating, ventilation, cooling and room control, wired with standard M12 connectors.
+- The powerIO System: decentralized I/O boxes and CODESYS gateways for heating, ventilation, cooling and room control.
 - CODESYS libraries for building automation, ready to use in your HVAC projects.
 - powerIO Orbit, our engineering platform for automation.
 
